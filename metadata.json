@@ -1,0 +1,5 @@
+{
+  "name": "Interactive AI Code Explorer",
+  "description": "A high-performance interactive source code analyzer that transforms raw code into a structured, execution-aware map with line-by-line insights and control-flow visualizations.",
+  "requestFramePermissions": []
+}
